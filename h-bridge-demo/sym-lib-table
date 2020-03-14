@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name Exodus_Peripherals)(type Legacy)(uri ${CUSTOM_SYMBOL_DIR}/Exodus_Peripherals.lib)(options "")(descr ""))
+  (lib (name Exodus_Connectors)(type Legacy)(uri ${CUSTOM_SYMBOL_DIR}/Exodus_Connectors.lib)(options "")(descr ""))
+  (lib (name Exodus_Memory_RAM)(type Legacy)(uri ${CUSTOM_SYMBOL_DIR}/Exodus_Memory_RAM.lib)(options "")(descr ""))
+  (lib (name Exodus_Microcontrollers)(type Legacy)(uri ${CUSTOM_SYMBOL_DIR}/Exodus_Microcontrollers.lib)(options "")(descr ""))
+  (lib (name Exodus_PowerRegulator)(type Legacy)(uri ${CUSTOM_SYMBOL_DIR}/Exodus_PowerRegulator.lib)(options "")(descr ""))
+)
